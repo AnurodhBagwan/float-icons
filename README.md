@@ -1,1 +1,1 @@
-It is a an landing page with mesmerising animations which i make only with HTML and CSS.
+It is a landing page with mesmerising animations which I make only with HTML and CSS.
